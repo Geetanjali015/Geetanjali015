@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I am Geetanjali,<br>🚀 Passionate about exploring new technologies and solving real-world problems<br>🎓 Pursuing B.Tech in Computer Science Engineering at SRM Institute of Science and Technology<br>🧠 Currently sharpening my skills in Data Structures, Algorithms, and Full Stack Development<br>🤖 Actively learning and building projects in AI, DSA, and modern web technologies<br>🎨 I love blending creativity with tech — art, music, history, and hackathons keep me inspired<br>🤝 Always open to collaboration, open-source contributions, and meaningful discussions<br>📬 Reach out to me at gp0738@gmail.com<br><br>
+## I am Geetanjali,<br> 
+🚀 Passionate about exploring new technologies and solving real-world problems<br>🎓 Pursuing B.Tech in Computer Science Engineering at SRM Institute of Science and Technology<br>🧠 Currently sharpening my skills in Data Structures, Algorithms, and Full Stack Development<br>🤖 Actively learning and building projects in AI, DSA, and modern web technologies<br>🎨 I love blending creativity with tech — art, music, history, and hackathons keep me inspired<br>🤝 Always open to collaboration, open-source contributions, and meaningful discussions<br>📬 Reach out to me at gp0738@gmail.com<br><br>
 
 
 ## 🌐 Socials:
