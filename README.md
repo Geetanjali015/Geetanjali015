@@ -10,7 +10,7 @@
 
 <br>
 
----
+
 
 ## 🧠 about.me
 
@@ -21,7 +21,7 @@
 - 📬 Reach me at **geetareddy2005@gmail.com** or **gp0738@srmist.edu.in**
 
 
----
+
 
 
 
@@ -59,14 +59,5 @@
 
 <br>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Geetanjali015&color=7F77DD&style=flat-square&label=profile+views" />
-</p>
 
-<p align="center">
-  <sub>
-    crafted with curiosity · built with caffeine · powered by late nights 🌙
-  </sub>
-</p>
