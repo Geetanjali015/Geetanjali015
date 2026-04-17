@@ -1,13 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&random=false&width=600&lines=geetanjali.init();B.Tech+CSE+%40+SRM+IST;Full+Stack+%2B+AI+%2B+DSA;Always+building%2C+always+learning.)](https://git.io/typing-svg)
 
-## I am Geetanjali,<br> 
-🚀 Passionate about exploring new technologies and solving real-world problems<br>🎓 Pursuing B.Tech in Computer Science Engineering at SRM Institute of Science and Technology<br>🧠 Currently sharpening my skills in Data Structures, Algorithms, and Full Stack Development<br>🤖 Actively learning and building projects in AI, DSA, and modern web technologies<br>🎨 I love blending creativity with tech — art, music, history, and hackathons keep me inspired<br>🤝 Always open to collaboration, open-source contributions, and meaningful discussions<br>📬 Reach out to me at gp0738@srmist.edu.in<br><br>
+<br>
 
 
-## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geetanjali-reddy-384278280/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geetareddy2005@gmail.com)
+> 🎓 B.Tech Computer Science Engineering · SRM Institute of Science and Technology  
+> 🚀 Building at the intersection of **AI**, **Full Stack Dev**, and **creative problem-solving**  
+> 🌍 Open to collaborations, open-source contributions, and meaningful hackathons
+
+<br>
+
+---
+
+## 🧠 about.me
+
+- 🔍 Sharpening **Data Structures & Algorithms** while shipping projects that solve real problems
+- 🤖 Actively exploring **AI/ML** — from computer vision to LLM integrations and RAG pipelines
+- 🎨 Art, music & history fuel my creativity — I bring that energy into everything I build
+- 💬 Ask me about **React**, **Python**, **FastAPI**, or anything full-stack
+- 📬 Reach me at **geetareddy2005@gmail.com** or **gp0738@srmist.edu.in**
+
+
+---
+
+
+
+
 
 
 # 💻 Tech Stack:
@@ -21,4 +39,34 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geetanjali015&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+## 🌐 connect
+
+<p>
+  <a href="https://www.linkedin.com/in/geetanjali-reddy-384278280/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:geetareddy2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:gp0738@srmist.edu.in">
+    <img src="https://img.shields.io/badge/SRM_Mail-4A90D9?logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Geetanjali015&color=7F77DD&style=flat-square&label=profile+views" />
+</p>
+
+<p align="center">
+  <sub>
+    crafted with curiosity · built with caffeine · powered by late nights 🌙
+  </sub>
 </p>
