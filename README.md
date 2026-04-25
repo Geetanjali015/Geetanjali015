@@ -40,6 +40,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geetanjali015&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
+<p align="center"><img width="320" height="180" alt="Programmer Coding GIF" src="https://github.com/user-attachments/assets/6952c443-737c-4068-9f80-b00c511f4ce2" />
+
+
 
 ## 🌐 connect
 
