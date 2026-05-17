@@ -16,7 +16,6 @@
 
 - 🔍 Sharpening **Data Structures & Algorithms** while shipping projects that solve real problems
 - 🤖 Actively exploring **AI/ML** — from computer vision to LLM integrations and RAG pipelines
-- 🎨 Art, music & history fuel my creativity — I bring that energy into everything I build
 - 💬 Ask me about **React**, **Python**, **FastAPI**, or anything full-stack
 - 📬 Reach me at **geetareddy2005@gmail.com** or **gp0738@srmist.edu.in**
 
